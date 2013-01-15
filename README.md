@@ -1,4 +1,4 @@
-katas
+CodeBreakerKata
 =====
 
 El doctor Maligno se encuentra a salvo en su super laboratorio secreto a 500 metros bajo tierra. Para atraparlo, sólo tienes que acertar el código de seguridad de la puerta acorazada de la entrada. Este código cambia cada día, así que deberás darte prisa en acertarlo.
