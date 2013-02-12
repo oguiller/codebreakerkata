@@ -31,7 +31,7 @@ public class SecurityDoor {
 	private String readCodeFromInput(InputStream in) {
 		String code = "";
 		Scanner scanner = new Scanner(in);
-		System.out.println("Please introduce the code: ");
+		System.out.println("Please enter the code: ");
 		code = scanner.next();
 		return code;
 	}
